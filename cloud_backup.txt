@@ -1,0 +1,22 @@
+Choosing Cloud Backup For PCs
+By Keir Thomas, PCWorld 
+
+Backup is one of the oldest needs in computing. Whether it's hard disk failure, computer theft, or just a wandering three year-old with a fruit juice carton, it's very easy to lose data on a computer.
+Although at one time offsite backup was niche and often expensive, the cloud has brought about a revolution in inexpensive storage, making backing up online inexpensive and fuss-free.
+But with so many choices out there, how can we narrow it down? Rather than directly recommending services, here are requirements to consider.
+Firstly, however, a word about the types of cloud storage available for workstations. Essentially, there are two: dedicated backup services and cloud sync services.
+
+The former usually comes with a client that's able to watch files or folders (including types of files) and back them up when they change. 
+A popular example of this is Mozy. The downside is that restoring files is more involved; it isn't expected users will restore unless they have to.
+Cloud sync services take a different approach, adding a magic folder or drive to your computer, the contents of which are automatically and invisibly synced online. A popular example of this is Dropbox. 
+Some services offer client software that can also watch files and folders anywhere on your hard disk and back them up too, such as that offered by SugarSync.
+Cloud sync is a more immediate form of backup, and if you create and edit files within the magic folder everything will be backed-up automatically.
+When it comes to choosing any kind of service, the first question to ask is what computing platforms are supported. 
+If you're backing up a Mac, for example, then being able to access the data from a PC client is vital should the Mac die; PCs are commonplace, but Macs are rarer. 
+Some cloud storage services offer clients not only for Mac and PC but for mobile devices like iPhones and Android phones, too.
+Consider security. Your data will be undoubtedly be stored encrypted but that doesn't amount to a hill of beans if the sign-on system is weak. 
+Some cloud storage providers require you to use your email address as a login name, for example, meaning that anybody who wants to access your data surreptitiously only has to guess your password. If you choose a strong and unique password then this shoudn't be an issue, of course.
+As for the actual file uploads, there are essentially two approaches. The first is to back up entire files each and every time. 
+If the file is modified, then the whole thing is backed-up afresh--annoying if you've done little more than tweak a 10GB movie, for example.
+The second method is to work out the difference between the old and new files, and only back up the new data--a process known as diffing. 
+This saves bandwidth, and also stops your Internet connection from getting choked with constant backup data.
